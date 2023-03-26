@@ -1,4 +1,4 @@
-# Linear Regession Using Time series for the Prediction of Air quality in Lagos
+# Linear Regression Using Time series for the Prediction of Air quality in Lagos
 In this project i employed the technique of linear regression and i applied it on time series data.Usually when working with linear regression problems ,we are  charaterized with two variables namely the target and the feature variable but our data posessed a single column and target which was the PM2.5 reading. In other to do perform linear regression i lagged the PM2.5 readings by 1 hour, then i  treated the lagged column as the feature and performed my linear regression.Then predicted the qulaity of air in lagos in the coming hours.
 
 # Data Splitting
